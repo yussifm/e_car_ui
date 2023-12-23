@@ -1,10 +1,11 @@
 // ignore_for_file: prefer_const_constructors, avoid_unnecessary_containers
 
+import 'package:flutter/material.dart';
+import 'package:flutter_svg/svg.dart';
+
 import 'package:e_car_ui/Constants/constanins.dart';
 import 'package:e_car_ui/Models/TyrePsi.dart';
 import 'package:e_car_ui/Services/home_services.dart';
-import 'package:flutter/material.dart';
-import 'package:flutter_svg/svg.dart';
 
 import '../Component/btr_status.dart';
 import '../Component/car_bottom_navBar.dart';
